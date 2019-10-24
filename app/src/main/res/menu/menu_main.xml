@@ -1,0 +1,62 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    tools:context="com.example.newsapp.MainActivity">
+
+
+    <item
+        android:id="@+id/red"
+        android:orderInCategory="100"
+        android:title="@string/Red"
+        />
+
+    <item
+        android:id="@+id/green"
+        android:orderInCategory="100"
+        android:title="@string/Green"
+        />
+
+    <item
+        android:id="@+id/purple"
+        android:orderInCategory="100"
+        android:title="@string/Purple"
+        />
+
+    <item
+        android:id="@+id/blue"
+        android:orderInCategory="100"
+        android:title="@string/Blue"
+        />
+
+    <item
+        android:id="@+id/Orange"
+        android:orderInCategory="100"
+        android:title="@string/Orange"
+        />
+
+    <item
+        android:id="@+id/pink"
+        android:orderInCategory="100"
+        android:title="@string/Pink"
+        />
+
+    <item
+        android:id="@+id/yellow"
+        android:orderInCategory="100"
+        android:title="@string/Yellow"
+        />
+
+
+    <item
+        android:title="Search"
+        android:id="@+id/action_search"
+        android:icon="@android:drawable/ic_menu_search"
+        app:showAsAction="always"
+        app:actionViewClass="android.widget.SearchView"
+        />
+
+
+
+
+</menu>

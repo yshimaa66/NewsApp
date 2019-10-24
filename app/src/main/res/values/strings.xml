@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="Red">Red</string>
+    <string name="Green">Green</string>
+    <string name="Purple">Purple</string>
+    <string name="Blue">Blue</string>
+    <string name="Orange">Orange</string>
+    <string name="Pink">Pink</string>
+    <string name="Yellow">Yellow</string>
+</resources>
