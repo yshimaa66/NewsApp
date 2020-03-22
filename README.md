@@ -3,3 +3,4 @@ An Android application that gives a user regularly-updated news from the interne
 
 
 https://github.com/yshimaa66/NewsApp/blob/master/SVID_20191026_005853.mp4
+
